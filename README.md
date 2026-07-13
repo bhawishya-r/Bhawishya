@@ -6,7 +6,7 @@ Currently learning networking from the ground up through Cisco Packet Tracer, Wi
 
 I believe the best way to learn is to build, break, troubleshoot and build again.
 
----
+
 
 ## 📖 Currently Learning
 
@@ -17,7 +17,7 @@ I believe the best way to learn is to build, break, troubleshoot and build again
 - Network Troubleshooting
 - Cisco Packet Tracer
 
----
+
 
 ## 🛠 Tools
 
@@ -25,7 +25,7 @@ I believe the best way to learn is to build, break, troubleshoot and build again
 - Wireshark
 - Git & GitHub
 
----
+
 
 ## 📂 Current Projects
 
@@ -35,13 +35,13 @@ I believe the best way to learn is to build, break, troubleshoot and build again
 - Packet Flow Analysis
 - Wireshark Packet Captures
 
----
+
 
 ## 🎯 Goal
 
 To become a Cybersecurity Engineer with a strong foundation in networking, systems and security.
 
----
+
 
 ## 📈 Learning Philosophy
 
@@ -55,6 +55,6 @@ To become a Cybersecurity Engineer with a strong foundation in networking, syste
 >
 > Repeat.
 
----
+
 
 Thanks for visiting!
